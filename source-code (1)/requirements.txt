@@ -1,7 +1,0 @@
-apify
-selenium
-selenium-stealth
-google-genai
-requests
-Pillow
-numpy
